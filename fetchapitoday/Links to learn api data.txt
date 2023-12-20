@@ -1,0 +1,4 @@
+Links to learn api fetching
+
+http://local.easyfreightlook.com/api/v1/all/invoice/details
+http://local.easyfreightlook.com/api/v1/all/invoice-payable/report/details
